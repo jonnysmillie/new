@@ -1,0 +1,26 @@
+{
+  "name": "api-with-node-v1",
+  "version": "1.0.0",
+  "description": "A Node JS Twitter interface",
+  "main": "js/app.js",
+  "scripts": {
+    "test": "node js/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonnysmillie/node-twitter-client.git"
+  },
+  "keywords": [
+    "node",
+    "twitter"
+  ],
+  "author": "Jonny Smillie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonnysmillie/node-twitter-client/issues"
+  },
+  "homepage": "https://github.com/jonnysmillie/node-twitter-client#readme",
+  "dependencies": {
+    "pug": "^2.0.0-beta11"
+  }
+}
